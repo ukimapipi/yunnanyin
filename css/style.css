@@ -1,6 +1,8 @@
 body {
   width: 100%;
+  background-color: #BDA699;
 }
+
 body:before,
 body:after {
   content: "";
@@ -547,10 +549,13 @@ button::-moz-focus-inner {
 #banner {
   width: inherit;
   height: inherit;
+  background-image: url('/yunnanyin/images/flower1.png'); /* 替换为你的背景图片路径 */
   background-position: center center;
   background-repeat: no-repeat;
-  background-color: #00473e;
+  background-color: #963d2f;
   background-size: cover;
+}
+
 }
 #header-title {
   width: 100%;
@@ -1608,8 +1613,8 @@ pre .javascript .function {
   width: 92px;
   height: 92px;
   border-radius: 50%;
-  border: 4px solid #00473e;
-  background: url("https://avatars.githubusercontent.com/u/26000789?v=4");
+  border: 4px solid #3676d3;
+  background: #365499;
   background-size: 110% 110%;
   background-position: center center;
 }
