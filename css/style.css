@@ -580,7 +580,6 @@ button::-moz-focus-inner {
   padding: 5px 0;
   position: absolute; /* 为伪元素定位 */
   font-size: 16px;
-  width: 50px; /* 固定幅を設定 */
   transition: color 0.3s; /* 平滑颜色变化 */
   text-align: left
 }
